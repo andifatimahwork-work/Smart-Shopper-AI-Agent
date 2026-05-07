@@ -1,0 +1,74 @@
+[
+  {
+    "id": "buying-guide",
+    "category": "purchase",
+    "title": "Cara membeli produk",
+    "content": "Untuk membeli produk, user memilih produk yang diinginkan, mengecek ukuran atau variasi, menekan tombol tambah ke keranjang, lalu melanjutkan ke checkout. Pada halaman checkout, user mengisi alamat pengiriman, memilih kurir, memilih metode pembayaran, dan mengonfirmasi pesanan. Pesanan baru diproses setelah pembayaran berhasil atau setelah pesanan COD dikonfirmasi."
+  },
+  {
+    "id": "payment-method",
+    "category": "payment",
+    "title": "Metode pembayaran",
+    "content": "SmartShopper mendukung pembayaran melalui transfer bank virtual account, kartu debit atau kredit, e-wallet, dan cash on delivery untuk area tertentu. Pembayaran harus diselesaikan sebelum batas waktu yang muncul di halaman checkout. Jika pembayaran melewati batas waktu, pesanan dapat otomatis dibatalkan."
+  },
+  {
+    "id": "shipping-policy",
+    "category": "shipping",
+    "title": "Kebijakan pengiriman",
+    "content": "Estimasi pengiriman bergantung pada alamat tujuan, pilihan kurir, dan ketersediaan stok. Pesanan biasanya diproses dalam 1 sampai 2 hari kerja setelah pembayaran terverifikasi. Estimasi reguler umumnya 2 sampai 5 hari kerja, sedangkan pengiriman instan atau same day hanya tersedia di wilayah tertentu."
+  },
+  {
+    "id": "tracking-order",
+    "category": "shipping",
+    "title": "Cara melacak pesanan",
+    "content": "User dapat melacak pesanan dari menu pesanan saya. Setelah paket diserahkan ke kurir, nomor resi akan muncul di detail pesanan. Jika nomor resi belum aktif, user dapat menunggu beberapa jam karena sistem kurir mungkin membutuhkan waktu untuk memperbarui status."
+  },
+  {
+    "id": "cancel-order",
+    "category": "order",
+    "title": "Pembatalan pesanan",
+    "content": "Pesanan dapat dibatalkan selama statusnya belum diproses gudang atau belum dikirim. Jika pesanan sudah dikirim, user tidak dapat membatalkan pesanan dan harus mengikuti prosedur retur setelah barang diterima. Refund untuk pesanan batal akan mengikuti metode pembayaran awal."
+  },
+  {
+    "id": "refund-policy",
+    "category": "refund",
+    "title": "Kebijakan refund",
+    "content": "Refund dapat diajukan untuk pesanan yang dibatalkan, barang tidak tersedia, barang rusak, atau barang yang diterima tidak sesuai. User perlu melampirkan bukti seperti foto produk, label pengiriman, dan nomor pesanan. Proses pengecekan biasanya membutuhkan 1 sampai 3 hari kerja setelah pengajuan diterima."
+  },
+  {
+    "id": "return-policy",
+    "category": "return",
+    "title": "Kebijakan retur",
+    "content": "Retur dapat diajukan maksimal 7 hari setelah barang diterima. Produk harus belum digunakan, label masih terpasang, dan kemasan pendukung masih tersedia jika memungkinkan. Produk tertentu seperti pakaian dalam, produk personal care, atau item final sale tidak dapat diretur kecuali ada kerusakan atau kesalahan pengiriman."
+  },
+  {
+    "id": "exchange-size",
+    "category": "return",
+    "title": "Penukaran ukuran",
+    "content": "Penukaran ukuran dapat dilakukan jika stok ukuran pengganti masih tersedia dan produk memenuhi syarat retur. User perlu membuat pengajuan dari detail pesanan, memilih alasan penukaran ukuran, dan mengikuti instruksi pengiriman balik. Biaya kirim dapat berbeda tergantung alasan penukaran."
+  },
+  {
+    "id": "voucher-policy",
+    "category": "promotion",
+    "title": "Voucher dan promo",
+    "content": "Voucher hanya dapat digunakan sesuai syarat dan ketentuan yang berlaku, seperti minimum pembelian, kategori tertentu, periode promo, atau metode pembayaran tertentu. Jika pesanan dibatalkan, voucher dapat kembali atau hangus tergantung jenis promo. Voucher tidak selalu dapat digabung dengan promo lain."
+  },
+  {
+    "id": "cod-policy",
+    "category": "payment",
+    "title": "Cash on delivery",
+    "content": "Cash on delivery atau COD tersedia hanya untuk wilayah dan produk tertentu. User membayar langsung kepada kurir saat paket diterima. Jika user sering menolak paket COD tanpa alasan valid, fitur COD dapat dibatasi sementara untuk akun tersebut."
+  },
+  {
+    "id": "damaged-item",
+    "category": "complaint",
+    "title": "Barang rusak atau tidak sesuai",
+    "content": "Jika barang rusak, kurang, atau tidak sesuai pesanan, user harus menghubungi customer service melalui pusat bantuan dan melampirkan foto produk, kemasan, label resi, serta video unboxing jika ada. Pengajuan akan ditinjau sebelum keputusan refund, retur, atau pengiriman ulang diberikan."
+  },
+  {
+    "id": "customer-service",
+    "category": "support",
+    "title": "Customer service",
+    "content": "Customer service dapat membantu pertanyaan terkait pesanan, pembayaran, pengiriman, refund, retur, voucher, dan kendala akun. User perlu menyiapkan nomor pesanan agar tim support dapat mengecek status lebih cepat. Waktu respons dapat berbeda pada hari libur atau periode promo besar."
+  }
+]
